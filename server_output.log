@@ -1,0 +1,2 @@
+Server running on port 5000
+MySQL not running or accessible. Falling back to in-memory store for POC testing.
